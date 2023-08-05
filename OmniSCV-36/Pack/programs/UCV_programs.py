@@ -1,8 +1,8 @@
 from unrealcv import client
 import os,time
 import numpy as np
-import programs.functions as f
-import programs.nc_panorama as ncp
+import functions as f
+import nc_panorama as ncp
 
 def set_color(count):
 	margin = 51

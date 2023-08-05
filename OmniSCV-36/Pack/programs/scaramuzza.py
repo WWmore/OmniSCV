@@ -1,9 +1,9 @@
 import cv2
 import numpy as np
-import programs.functions as f
+import functions as f
 from tqdm import tqdm
-from programs.utils import *
-import programs.fichero as fichero
+from utils import *
+import fichero as fichero
 
 #Main program
 def main(scene,common=[1024,1024,0,1,'cam_rot.txt','R',20.0],  specific=[-2.736690e+02,0.000000e+00,1.491215e-03,-1.810410e-06,6.614668e-09]):

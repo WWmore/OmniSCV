@@ -2,9 +2,9 @@ from unrealcv import client
 from PIL import Image
 import cv2
 import numpy as np
-import programs.functions as f
+import functions as f
 import os,time,io
-import programs.fichero as fichero
+import fichero as fichero
 
 def set_ue_nc(vignette,forward_5):
 	ucv_file = open(os.path.join(forward_5,'unrealcv.ini'),'w')

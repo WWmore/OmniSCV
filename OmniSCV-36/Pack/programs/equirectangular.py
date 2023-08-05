@@ -1,9 +1,9 @@
 import cv2
 import numpy as np
-import programs.functions as f
+import functions as f
 from tqdm import tqdm
-from programs.utils import *
-import programs.fichero as fichero
+from utils import *
+import fichero as fichero
 
 
 #Main program

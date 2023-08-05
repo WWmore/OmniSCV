@@ -1,4 +1,4 @@
-from programs.utils import *
+from utils import *
 
 #Details of omnidirectional images obtained with the simulator
 def main(central,image_path,image_name,specific):

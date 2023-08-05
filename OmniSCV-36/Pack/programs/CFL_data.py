@@ -1,7 +1,7 @@
 from PIL import Image,ImageFilter
 import numpy as np
 import os,time,cv2
-import programs.functions as f
+import functions as f
 import math
 from tqdm import tqdm
 

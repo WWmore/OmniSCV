@@ -3,9 +3,9 @@ from PIL import Image
 import cv2
 import numpy as np
 import math
-import programs.functions as f
+import functions as f
 import os,time,io
-import programs.fichero as fichero
+import fichero as fichero
 
 #La resolucion para recortar a 512x512 debe ser 887x887 a 120fov
 #Se cortaran en los pixeles 187-699

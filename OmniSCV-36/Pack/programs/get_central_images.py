@@ -1,6 +1,6 @@
 from unrealcv import client
 from PIL import Image
-from programs.functions import *
+from functions import *
 import numpy as np
 import os,time
 
