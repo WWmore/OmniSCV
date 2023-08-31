@@ -23,7 +23,7 @@ o3d.visualization.draw_geometries([m])
 
 
 
-if 1:
+if 0:
     DX,DY=0.5/2,0.66/2
     v_uv=[[DX,DY],[DX,2*DY],[2*DX,2*DY],[2*DX,DY],
         [0,DX],[DX,1],[3*DX,2*DY],[3*DX,DY]]
